@@ -209,8 +209,8 @@ li{
   padding-top: 10%;
   color: white;
   font-size: 12px;
-  position: fixed;
-  bottom: 3%;
+  position: absolute;
+  bottom: 0;
 }
 
 .hardware, .news {
