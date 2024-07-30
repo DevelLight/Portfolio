@@ -573,6 +573,10 @@ li{
   .copyright {
     padding-left: 2.5%;
   }
+  
+  .copyright-site {
+    padding-top: 4%;
+  } 
 
   .copy-text {
     width: 40%;
